@@ -1,0 +1,3 @@
+Hey my name is Harshiv Patel
+Email: pate2566@sheridancollege.ca
+Git repo: https://github.com/Harshiv-P/fork-lab-01-git-assignment.git
